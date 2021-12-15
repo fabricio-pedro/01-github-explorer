@@ -4,3 +4,7 @@ yarn-error.log
 
 #dependencies
 node_modules
+
+#build
+dist/bundle.js.map
+dist/index.html
