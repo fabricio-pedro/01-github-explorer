@@ -7,6 +7,7 @@ Para que possamos usar react é necessário ter um conjunto de outras dependenci
 2.  webpack
 3.  loaders  
 
+É um projeto basico que cria uma lista de repositorios do github.
 Ao mesmo tempo esse projeto tem me permitido praticar os comandos do git. Sinta-se a vontade para clonar se facilitar seus estudos sobre React
 
 
